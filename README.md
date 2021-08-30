@@ -1,6 +1,6 @@
 # Introduction to Hardware Lab
 
-The goal of this lab is to introduce the students to hardware through Raspberry Pi's OOP. 
+The goal of this lab is to introduce the students to hardware through Raspberry Pi's. 
 
 ## Run
 
